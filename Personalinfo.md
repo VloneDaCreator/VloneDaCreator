@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning C++ and Python 
 - 💞️ I’m looking to expand my knowledge in Programming
 - 📫 You can reach me on my business e-mail: valyovlonebusiness@gmail.com
-- 🕸 You can also reach me on my personal Instagram: vlone_valyo
+- 🕸 You can also reach me on my personal Instagram: @vlone_valyo
